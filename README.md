@@ -1,7 +1,7 @@
 # mycode
 python basics labs
 
-#BEST PARTICES FOR README
+# BEST PARTICES FOR README
 # mycode (Project Title)
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
