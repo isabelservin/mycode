@@ -15,7 +15,6 @@ elif bookSeries == "4":
 else:
     greeting = "Not a valid selection"
 
+
 print(greeting)
 print("Come again soon!")
-
-
